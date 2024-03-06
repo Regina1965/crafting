@@ -11,8 +11,7 @@ Misc Flags=NoOptimizeInterfaceMap;NoUserEdit
 Exchange Registry=1
 Exchange Extension Key="FaxExtension"
 
-; Exchange Context Map is SENDNOTEMESSAGE
-Exchange Context Map=00000100000000
+
 
 ; Exchange Interface Map is unknown (please specify)
 Exchange Interface Map=1111111
