@@ -4,7 +4,7 @@
 .vscode/
 #Cache folder
 .alcache/
-#Snapshots folder
+#Snapshots
 .snapshots/
 #Testing Output folder
 .output/
