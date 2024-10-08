@@ -6,6 +6,7 @@
 .alcache/
 #Snapshots
 .snapshots/
+.screenshots/
 #Testing Output folder
 .output/
 #Rapid Application Development File
