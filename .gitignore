@@ -4,6 +4,7 @@
 .vscode/
 #Cache folder
 .alcache/
+.normaly/
 .screenshots/
 #Testing Output folder
 .output/
